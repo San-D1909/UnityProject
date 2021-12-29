@@ -6,11 +6,11 @@ using UnityEngine;
 public class Turret : MonoBehaviour
 {
     // Start is called before the first frame update
-    public Transform Target;
+    public Transform target;
     [SerializeField] private float range = 15f;
-    [SerializeField] private string enemyTag = "Enemy";
+    public string enemyTag = "Enemy";
     [SerializeField] private Transform baseTurret;
-
+      
     private void Start()
     {
         InvokeRepeating("UpdateTarget", 0f, 0.5f);
@@ -32,22 +32,22 @@ public class Turret : MonoBehaviour
         }
         if (nearestEnemy != null && shortestDistance <= range)
         {
-            Target = nearestEnemy.transform;
+            target = nearestEnemy.transform;
         }
         else
         {
-            Target = null;
+            target = null;
         }
     }
     private void Update()
     {
-        if (Target = null)
+        if (target = null)
         {
             return;
         }
             
 
-        Vector3 dir = Target.position - transform.position;
+        Vector3 dir = target.position - transform.position;
         Quaternion lookrotation = Quaternion.LookRotation(dir);
         Vector3 turretrotation = lookrotation.eulerAngles;
         baseTurret.rotation = Quaternion.Euler(0f, turretrotation.y, 0f);

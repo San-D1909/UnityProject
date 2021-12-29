@@ -1095,9 +1095,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6329147140980186249}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.5448685, y: -6.9631095, z: 5.4507365}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_LocalScale: {x: 0.39897, y: 0.39897, z: 0.39897}
   m_Children:
   - {fileID: 5791379221110788791}
   m_Father: {fileID: 9196312092018660773}
@@ -1132,8 +1132,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6de9a155e2f756942b0ad3219b309972, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Target: {fileID: 0}
-  range: 5
+  target: {fileID: 0}
+  range: 8
   enemyTag: Enemy
   baseTurret: {fileID: 6329147140980186248}
 --- !u!1 &6329147140987979532
