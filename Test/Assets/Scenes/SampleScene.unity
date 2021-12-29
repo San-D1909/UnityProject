@@ -1135,6 +1135,7 @@ MonoBehaviour:
   Target: {fileID: 0}
   range: 5
   enemyTag: Enemy
+  baseTurret: {fileID: 6329147140980186248}
 --- !u!1 &6329147140987979532
 GameObject:
   m_ObjectHideFlags: 0
