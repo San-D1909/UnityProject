@@ -386,3 +386,6 @@ Test/Temp/UnityTempFile-93078788b696de9479231e0107903306
 Test/Temp/UnityTempFile-938f4fd9d66d7184ab11b4f6611ca1c8
 Test/Temp/UnityTempFile-a459e51b17659724ab9fee8cef0b3b78
 Test/Temp/workerlic
+Test/Library/ArtifactDB
+Test/Library/SourceAssetDB
+Test/Assets/Scenes/SampleScene.unity
