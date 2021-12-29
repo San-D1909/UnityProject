@@ -1,0 +1,100 @@
+# Starting compiling UnityEngine.TestRunner.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0a4553539a900c448bb6e73503b5c220
+# Starting compiling UnityEngine.UI.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-d415e845dd1d51042aae17052ec8648f
+# Starting compiling UnityEditor.TestRunner.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0a5da30bf5597504c95179865d8065ab
+# Starting compiling UnityEditor.UI.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-58df6924a1ce5c6418cc31ffdef3f27a
+# Starting compiling Unity.Services.Core.Editor.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-592563515f1349d459a6a71deb05e717
+# Starting compiling Unity.VSCode.Editor.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-2b9009f111aad4c47a8121247efe9044
+# Starting compiling Unity.VisualStudio.Editor.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-672d5f493b5b4e04795874a8a5432a5f
+# Starting compiling Unity.Timeline.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-03d01dfd8d659a848a2565edc76e3e22
+# Starting compiling Unity.TextMeshPro.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-d570bf7fade13f54bad9ba18a7c91721
+# Starting compiling Unity.PlasticSCM.Editor.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e224c83e00644714a8997d5507aeea2b
+# Starting compiling Unity.Rider.Editor.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-29252f75ec50c1f4590e0637dd46ca6d
+# Starting compiling Unity.Mathematics.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-cfa34252ba6fe1341b3143b2dd5e374d
+# Starting compiling Unity.Burst.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-b03cf7a35eb258a4a837217173086bcb
+# Starting compiling Unity.Timeline.Editor.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-97e3d34bf45faa54487b234cd2ee1f3c
+# Starting compiling Unity.TextMeshPro.Editor.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-24c19692a35aa314ca0c287cc0e8ed87
+# Starting compiling Unity.CollabProxy.Editor.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-3aeb490826caf234cba8071f76954f80
+# Starting compiling Unity.Burst.CodeGen.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-4ef011173a1c17d4d94b892a37738f4f
+# Starting compiling Unity.Burst.Editor.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0a71be44f998bb14f8c2c4db1e4773ae
+# Starting compiling Unity.Collections.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-353612bd918ba464fbfaff273f0810b2
+# Starting compiling Unity.Mathematics.Editor.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-bab7be314adb8fa4d86ed1d3370adf56
+# Starting compiling Unity.Collections.BurstCompatibilityGen.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-1a8a2287a11892a4197acb1fbbc8e0fa
+# Starting compiling Unity.Netcode.Runtime.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-c1bf01d87a306524fb495f73d9827f59
+# Starting compiling Unity.Netcode.Editor.CodeGen.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-16f61b49440f72c4abd3eadcf0680039
+# Starting compiling Unity.Netcode.Components.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-2f1a1ef3741b2a84bb131a70a2e39e61
+# Starting IL post processing on UnityEngine.TestRunner.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-9f7548556ee5cc04d883d6a836ef4aae
+# Starting IL post processing on UnityEngine.UI.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-2dea413c2f4a7bf4a9b39bb90ab96a3a
+# Starting IL post processing on UnityEditor.TestRunner.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-2ba9634cbd513db47bcf5db264eaf93a
+# Starting IL post processing on UnityEditor.UI.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-148f87ebb47243347a6b1bbe02a54c9a
+# Starting IL post processing on Unity.Services.Core.Editor.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-49d4f17a3abc32640aa8731d4e5209cb
+# Starting IL post processing on Unity.VSCode.Editor.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-624efd7fe340c7448add2f00423e560e
+# Starting IL post processing on Unity.VisualStudio.Editor.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-ef0e461bf147278409775e4be725d408
+# Starting IL post processing on Unity.Rider.Editor.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-3446a12f144ab40479fa041f9ca074be
+# Starting IL post processing on Unity.Timeline.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-1f49577f824ebea4c8e655482aa2cfc3
+# Starting IL post processing on Unity.TextMeshPro.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-087fd0fcb6e7a7c4fbd73ba7e9ab4a08
+# Starting IL post processing on Unity.PlasticSCM.Editor.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-4e4f217ac92d69548a75efba591cec7d
+# Starting IL post processing on Unity.Burst.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-03f78dbede74ab844885be805ce302b5
+# Starting compiling Unity.Netcode.Editor.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-33b2273a9fb4ee9458ecb4016f68347d
+# Starting compiling Assembly-CSharp.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-3ef10f0a9af2a8d4fa24f8e03be0aacc
+# Starting IL post processing on Unity.TextMeshPro.Editor.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-8ed9dc42018098d4babbf04bd019c6e1
+# Starting IL post processing on Unity.CollabProxy.Editor.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-da2d91b27cc0199418bb9f69b1303689
+# Starting IL post processing on Unity.Burst.Editor.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-e4b59b5295636bc46a445a4585349114
+# Starting IL post processing on Unity.Timeline.Editor.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-56990edb340c4884b8569f50b8aff883
+# Starting IL post processing on Unity.Mathematics.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-6165aeae241bcab448a4eae1c8c00e9b
+# Starting IL post processing on Unity.Mathematics.Editor.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-0e7c299010b000248a7a9b38b633d2fe
+# Starting IL post processing on Unity.Collections.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-6aedf23fecec40941a2d791424695750
+# Starting IL post processing on Unity.Collections.BurstCompatibilityGen.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-1985446cc9021e24fb15a1bade560bbb
+# Starting IL post processing on Unity.Netcode.Runtime.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-200c0d1ca6a66a94f8ae0ac3c0093746
+# Starting IL post processing on Unity.Netcode.Components.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-200db71060a2360439c7347f0b257c19
+# Starting IL post processing on Unity.Netcode.Editor.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-a41344f8ab3e98944910d95122c6a28d
+# Starting IL post processing on Assembly-CSharp.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @D:/Random/Unity/Github/UnityProject/Test/Temp/UnityTempFile-d827e317f092cb74f96c3c1d876e828f
